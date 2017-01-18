@@ -30,7 +30,7 @@
   },
   "peerDependencies": {
     "mocha": "^3.0.0",
-    "istanbul": "^0.4.3"
+    "istanbul": "^1.1.0-alpha.1"
   },
   "devDependencies": {
     "chai": "~3.5.0",
